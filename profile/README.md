@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pwnity.com target="_blank">Visit our Website</a>
+  <a href="https://pwnity.com" target="_blank">Visit our Website</a>
 </p>
 
 <br>
